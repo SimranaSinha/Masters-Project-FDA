@@ -5,7 +5,7 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 **Tasks** 
 Reading the research paper and understand the method used in the work , Loading the urban navigation data set,Preprocess the data (if necessary), such as normalizing or scaling the features Finding out why we need to maintain a uniform scale across the variables for K-means and Hierarchical clustering, Do we need to use scaling techniques for this dataset? Implementing K-means clustering to categorize the data into clusters ,Using elbow method to determine number of clusters ,Implementing Hierarchical clustering using an appropriate linkage method Tring all the linkage criteria, Plotting the dendogram for each criteria .For aforementioned methods generate the clustering solution. The clustering solution simply groups the counties into different groups based on similarity and also Investigating and commenting on the clusters
 
-**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights **
+**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**
 
 
 

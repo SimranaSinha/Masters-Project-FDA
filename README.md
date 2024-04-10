@@ -14,7 +14,7 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 9. For aforementioned methods generate the clustering solution.
 10. The clustering solution simply groups the counties into different groups based on similarity and also Investigating and commenting on the clusters
 
-**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**
+_**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**_
 
 
 **Project 2**

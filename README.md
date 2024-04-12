@@ -29,8 +29,8 @@ As an organization, Word aims to develop a mobile application leveragingaccelero
 2. Investigating whether permutation entropy and complexity method is reliable in differentiating heavy drinking vs. sober cases
 
 **Dataset** clean_tac-20240412T015857Z-001.zip
-https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking
-
+            https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking _(Can download all_accelerometer_data_pids_13 folder from here)_
+_
 
 **Project 3** 
 **Mapping the Landscape of Generative AI Research through Web of Science**

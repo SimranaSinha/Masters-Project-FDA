@@ -16,6 +16,7 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 10. The clustering solution simply groups the counties into different groups based on similarity and also Investigating and commenting on the clusters
 
 _**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**_
+**Dataset** UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder.csv
 
 
 **Project 2**
@@ -25,6 +26,7 @@ As an organization, Word aims to develop a mobile application leveragingaccelero
 **Tasks**
 1. Understanding the data provided for the project 
 2. Investigating whether permutation entropy and complexity method is reliable in differentiating heavy drinking vs. sober cases
+**Dataset** clean_tac-20240412T015857Z-001.zip
 
 
 **Project 3** 
@@ -37,3 +39,5 @@ In the rapidly evolving field of generative artificial intelligence (AI), identi
 2. Keyword Co-Occurrence Network Analysis: Build a keyword co-occurrence network from the author keywords associated with the retrieved publications. This network will visually represent how different research themes in generative AI are interconnected, highlighting the most frequently mentioned and central keywords.
 3. Identification of Key Research Themes: Analyze the keyword co-occurrence network using the weighted network analysis. This will help in understanding the focus areas of current research and predicting future trends.
 4. Use the “Web of Science ” Portal via Snell Library to collect data 
+
+**Dataset** Project3_Keywords.csv

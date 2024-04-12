@@ -27,6 +27,7 @@ As an organization, Word aims to develop a mobile application leveragingaccelero
 **Tasks**
 1. Understanding the data provided for the project 
 2. Investigating whether permutation entropy and complexity method is reliable in differentiating heavy drinking vs. sober cases
+
 **Dataset** clean_tac-20240412T015857Z-001.zip
 
 

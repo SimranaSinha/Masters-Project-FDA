@@ -18,7 +18,6 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 _**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**_
 
 **Dataset** UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder.csv
-https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking
 
 
 **Project 2**
@@ -30,6 +29,7 @@ As an organization, Word aims to develop a mobile application leveragingaccelero
 2. Investigating whether permutation entropy and complexity method is reliable in differentiating heavy drinking vs. sober cases
 
 **Dataset** clean_tac-20240412T015857Z-001.zip
+https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking
 
 
 **Project 3** 

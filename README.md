@@ -18,6 +18,7 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 _**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**_
 
 **Dataset** UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder.csv
+https://archive.ics.uci.edu/dataset/515/bar+crawl+detecting+heavy+drinking
 
 
 **Project 2**

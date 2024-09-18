@@ -1,5 +1,6 @@
 **Project 1**
-**Urban Spatial Order: Street Network Orientation, Configuration, and Entropy**
+**[Urban Spatial Order: Street Network Orientation, Configuration, and Entropy](Simran_Sinha_Project_1_FDA.ipynb)**
+[Dataset](UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder.csv)
 
 The paper "Urban Spatial Order: Street Network Orientation, Configuration, and Entropy" by Geoff Boeing examines street network patterns across 100 global cities.It utilizes OpenStreetMap data and OSMnx software to analyze street orientations and configurations. The study focuses on the entropy of street bearings and other metrics like average street segment length, circuity, node degree, and proportions of intersections and dead-ends. It also introduces a new measure, orientation-order,to quantify a city's grid-like structure. Statisticalrelationships between street orientation-order and other spatial order indicators are explored, revealing distinctive patterns in different regions, particularly between U.S./Canadian and other cities.The research provides insights into urban design and planning, highlighting the complexity and patterns of urban transportation systems worldwide. 
 
@@ -17,7 +18,7 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 
 _**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**_
 
-**Dataset** UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder.csv
+**Dataset** UrbanSpatialOrder - UrbanSpatialOrder - UrbanSpatialOrder - 
 
 
 

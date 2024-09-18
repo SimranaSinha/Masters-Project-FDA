@@ -29,7 +29,7 @@ As an organization, Word aims to develop a mobile application leveragingaccelero
 2. Investigating whether permutation entropy and complexity method is reliable in differentiating heavy drinking vs. sober cases
 
 
-# Project 3 : Mapping the Landscape of Generative AI Research through Web of Science 
+# Project 3 :  [Mapping the Landscape of Generative AI Research through Web of Science](Simran_Sinha_Project_2_FDA.ipynb)
 
 [Dataset](Project3_Keywords.csv)
 In the rapidly evolving field of generative artificial intelligence (AI), identifying key research themes and understanding their interconnections is crucial for academics, practitioners, and policy makers. This project aims to utilize the comprehensive Web of Science (WoS) database to search for publications related to generative AI. Through an analytical approach focused on keyword co-occurrence networks derived from author keywords, we will map the intellectual structure and identify the core themes and trends in generative AI research

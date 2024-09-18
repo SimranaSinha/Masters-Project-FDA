@@ -18,7 +18,7 @@ The paper "Urban Spatial Order: Street Network Orientation, Configuration, and E
 
 _**Variable selection and scaling ,K-means clustering implementation ,Hierarchical clustering implementation ,Visualizations and Insights**_
 
-# Project 2: 
+# Project 2: [Heavy drinking vs. Sober cases](Simran_Sinha_Project_2_FDA.ipynb)
 
 [Dataset](clean_tac-20240412T015857Z-001.zip)
 
@@ -41,4 +41,3 @@ In the rapidly evolving field of generative artificial intelligence (AI), identi
 3. Identification of Key Research Themes: Analyze the keyword co-occurrence network using the weighted network analysis. This will help in understanding the focus areas of current research and predicting future trends.
 4. Use the “Web of Science ” Portal via Snell Library to collect data 
 
-**Dataset** Project3_Keywords.csv

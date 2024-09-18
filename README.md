@@ -1,4 +1,4 @@
-**Project 1****[Urban Spatial Order: Street Network Orientation, Configuration, and Entropy](Simran_Sinha_Project_1_FDA.ipynb)**
+**Project 1:[Urban Spatial Order: Street Network Orientation, Configuration, and Entropy](Simran_Sinha_Project_1_FDA.ipynb)**
 
 [Dataset](UrbanSpatialOrder.csv)
 
